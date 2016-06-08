@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:30.172353
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:02
 #+TITLE: 佛說持明藏瑜伽大教尊那菩薩大明成就儀軌經
 #+PROPERTY: CBETA_ID T20n1169
 #+PROPERTY: ID KR6j0393
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1169
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0393_T_000-0677b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0393_T_002-0680c> 
 #+PROPERTY: JUAN 2
 ¶
-
- 佛說持明藏瑜伽大教尊那菩¶
+佛說持明藏瑜伽大教尊那菩¶
 薩大明成就儀軌經卷第二¶
 ¶
 觀智成就分之二¶
@@ -28,9 +27,9 @@
 「　我佛以大悲
 　調伏諸眾生¶
 　成福功德海
-　是故我讚禮
+　是故我讚禮」
 #+END_VERSE
-」¶
+¶
 
 讚法曰。¶
 
@@ -38,9 +37,9 @@
 「　真如之妙理
 　能壞諸惡趣¶
 　利生住寂靜
-　是故我讚禮
+　是故我讚禮」
 #+END_VERSE
-」¶
+¶
 
 讚僧曰。¶
 
@@ -48,9 +47,9 @@
 「　堅固持戒行
 　證入解脫門¶
 　住最功德剎
-　是故我讚禮
+　是故我讚禮」
 #+END_VERSE
-」¶
+¶
 
 讚尊那菩薩及諸賢聖。¶
 
